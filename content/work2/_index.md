@@ -8,7 +8,7 @@ weight = 30
 
 **Como agendar un examen de certificación de Amazon Web Services**
 
-1. Ir a https://www.aws.training/
+1. Ir a <a href="https://www.aws.training/" target="_blank">AWS Training</a>
 
 1. Seleccionar en el menú superior Certification y luego dar click en go to your account (Sino tiene una cuenta debes crearla asegurar del mantener el mismo Candidate ID)
 

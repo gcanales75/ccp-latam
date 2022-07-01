@@ -46,7 +46,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "AWS Certified Cloud Practitioner"
+title = "AWS Training & Certification "
 weight = 1
 languageName = "Spanish"
 
