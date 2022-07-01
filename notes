@@ -1,0 +1,8 @@
+git remote add ccp-latam git@github.com:gcanales75/ccp-latam.git
+
+git@github.com:gcanales75/ccp-latam.git
+git branch -M main
+
+git add .
+git commit -m "first commit"
+git push -u ccp-latam main
