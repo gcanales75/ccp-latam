@@ -1,7 +1,7 @@
 +++ 
-title = "Recursos" 
+title = "Recursos de estudio" 
 chapter = true 
-weight = 20 
+weight = 30 
 +++
 
 <img src="images/logo-bar.png" alt="drawing"/>
