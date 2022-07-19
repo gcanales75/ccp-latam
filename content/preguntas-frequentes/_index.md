@@ -42,7 +42,7 @@ Cuando Amazon EC2 va a interrumpir su instancia de spot, emite un evento dos min
 
 **P: ¿Qué factores debo tomar para implementar auto escalado en instancias Amazon EC2?**
 
-Para implementar un grupo de escalado automático para usarlo con una aplicación, Considere lo siguiente: 
+Para implementar un grupo de escalado automático para usarlo con una aplicación, Considere lo siguiente:
 
 - Entre cuántas zonas de disponibilidad debe distribuirse el grupo de Auto Scaling.
 - Qué recursos existentes se pueden utilizar, como grupos de seguridad o imágenes de máquina de Amazon (AMI).

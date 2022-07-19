@@ -16,7 +16,17 @@ Curso Digital: <a href="https://partnercentral.awspartner.com/LmsSsoRedirect?Rel
 
 Curso con Instructor: <a href="https://aws.amazon.com/partners/training/partner-course-schedule/?partner-training-cert-cards.sort-by=item.additionalFields.startDateSort&partner-training-cert-cards.sort-order=asc&awsf.location=location%23namerl%7Clocation%23latam&awsf.course-focus=*all&awsf.language=language%23spanish&awsf.tech-category=*all&partner-training-cert-cards.q=AWS%2BPartner%3A%2BAWS%2BCloud%2BPractitioner%2BEssentials&partner-training-cert-cards.q_operator=AND" target="_blank">AWS Partner: AWS Cloud Practitioner Essentials</a>
 
-Preparación de la certificación: 
+Juego interactivo para aprender más de los conceptos de Cloud Practitioner: <a href="https://cloudquest.skillbuilder.aws/" target="_blank">CLOUD QUEST</a>
+
+Descripción general de Amazon Web Services: <a href="https://docs.aws.amazon.com/es_es/whitepapers/latest/aws-overview/aws-overview.pdf?did=wp_card&trk=wp_card" target="_blank">Documento técnico de AWS</a>
+
+Cómo funcionan los precios de AWS: <a href="https://aws.amazon.com/es/pricing/" target="_blank">Precios de AWS</a>
+
+Comparación de los planes de soporte: <a href="https://aws.amazon.com/es/premiumsupport/plans/" target="_blank">Soporte AWS</a>
+
+AWS Well Architect Framework: <a href="https://aws.amazon.com/es/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc" target="_blank">Vista General del Marco de Buena Arquitectura</a>
+
+Preparación de la certificación:
 
 - <a href="https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf" target="_blank">Guía para el examen (Ingles)</a>
 
@@ -34,6 +44,6 @@ Preparación de la certificación:
 
 - Recursos adicionales de preparación AWS Cloud Practitioner Essentials:
 
-{{%attachments title="Descargar recursos adicionales" pattern=".*(pdf)"/%}}
+{{%attachments title="Anexo" pattern=".*(pdf)"/%}}
 
 <img src="images/logo-bar.png" alt="drawing"/>
