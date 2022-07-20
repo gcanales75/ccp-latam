@@ -54,7 +54,7 @@ weight = 20
 
 1. Una vez seleccionada la hora y dar **Next** se presentará el resumen del costo del examen para generar el pago. En caso de contar con voucher en el siguiente paso se habilitará la opción para agregar el código para su canje.
 
-    {{% notice note %}}En caso de que cuentes con un voucher promocional, asegúrate de haber seleccionado el proveedor de examen correspondiente a dicho voucher.
+    {{% notice tip %}}En caso de que cuentes con un voucher promocional, asegúrate de haber seleccionado el proveedor de examen correspondiente a dicho voucher.
     {{% /notice %}}
 
     <img src="images/Picture10.png" alt="drawing"/>
