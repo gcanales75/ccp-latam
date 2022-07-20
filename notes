@@ -6,5 +6,5 @@ git@github.com:gcanales75/ccp-latam.git
 git branch -M main
 
 git add .
-git commit -m "update faq"
+git commit -m "update"
 git push -u ccp-latam main
