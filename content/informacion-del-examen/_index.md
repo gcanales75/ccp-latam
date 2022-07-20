@@ -13,7 +13,7 @@ weight = 15
 | **Costo** | 100 USD |
 | **Formato** | 65 preguntas de opción simple y múltiples respuestas |
 
-Vaya a <a href="https://aws.amazon.com/es/certification/policies/before-testing/#Exam_pricing" target="_blank">Precios del examen</a> para obtener información adicional sobre el costo de otros examenes de certificación.
+Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testing/#Exam_pricing" target="_blank">Precios del examen</a> para obtener información adicional sobre el costo de otros examenes de certificación.
 
 #### Información adicional:
 
