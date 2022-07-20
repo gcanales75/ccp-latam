@@ -23,8 +23,6 @@ Vaya a <a href="https://aws.amazon.com/es/certification/policies/before-testing/
 
 - Las certificaciones de AWS tienen una validez de 3 años. Aquí encuentras más detalles: <a href="https://aws.amazon.com/es/certification/recertification/" target="_blank">Recertificación de AWS</a>.
 
-- Puedes programar tu examen con centros de Testing especializados como PearsonVue o PSI. Consultar la sección agendar examen. {{% button href="https://www.aws.training/certification?src=practitioner" %}}AWS Certification{{% /button %}}
-
 - Se encuentra disponible bajo petición una extensión de 30 minutos para los hablantes no nativos de inglés que toman el examen en inglés **antes de agendar el examen**. Si realiza un examen en inglés, puede solicitar una extensión de 30 minutos si no es hablante nativo de inglés. La adaptación “ESL 30” solo se debe solicitar una vez antes de registrarse para el examen. Aplicará para todos los futuros registros con todos los proveedores de evaluación. Para solicitar esta adaptación, siga los siguientes pasos:
 
 	- Inicie sesión en {{% button href="https://www.aws.training/Certification" %}}AWS Certification{{% /button %}}
