@@ -8,9 +8,9 @@ weight = 20
 
 **Cómo agendar un examen de certificación de Amazon Web Services**
 
-1. Ir a <a href="https://www.aws.training/" target="_blank">AWS Training</a>
+1. Ir a {{% button href="https://www.aws.training/" %}}AWS Certification{{% /button %}}
 
-1. Seleccionar en el menú superior **Certification** y luego dar *click* en **GO TO YOUR ACCOUNT** (Si no tiene una cuenta debes crearla asegurar del mantener el mismo Candidate ID).
+1. Seleccionar en el menú superior **Certification** y luego dar *click* en **SIGN IN** (Si no tiene una cuenta debes crearla asegurar del mantener el mismo Candidate ID).
 
     <img src="images/Picture1.png" alt="drawing"/>
 
@@ -38,7 +38,6 @@ weight = 20
 
 1. Aceptar las condiciones. Marcar todas las casillas y seleccionar **NEXT** al final de las condiciones.
 
-
     <img src="images/Picture6.png" alt="drawing"/>
 
 1. Seleccionar el idioma del PROCTOR.
@@ -49,7 +48,7 @@ weight = 20
 
     <img src="images/Picture8.png" alt="drawing"/>
 
-1. Seleccionar el día que se deseas presentar y a continuación se habilitarán en la sección inferior los horarios disponibles para ese día.
+1. Seleccionar el día para presentar el examen y a continuación se habilitarán en el panel inferior los horarios disponibles para ese día.
 
     <img src="images/Picture9.png" alt="drawing"/>
 

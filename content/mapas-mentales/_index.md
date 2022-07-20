@@ -8,12 +8,18 @@ weight = 35
 
 ## Mapas mentales
 
-Los **Mapas Mentales** son herramientas que ayudan a estructurar conceptos, conocimientos sobre los servicios de la nube de Amazon Web Services, sirve de apoyo para asimilar conceptos y resumir características esenciales de cada servicio.
+Los **Mapas Mentales** son herramientas que ayudan a estructurar conceptos, conocimientos sobre los servicios de la nube de Amazon Web Services, sirven de apoyo para asimilar conceptos y resumir características esenciales de la nube de AWS.
 
-{{%attachments title="Introducción a Cloud Computing en AWS" pattern="AWS_Informatica_en_la_nube.pdf"/%}}
+1. Introducción a Cloud Computing en AWS
 
-{{%attachments title="AWS Servicios de Informática" pattern="AWS_Servicios_de_Informatica.pdf"/%}}
+    {{% button href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Informatica_en_la_nube.pdf" icon="fas fa-download" %}}Mapa mental{{% /button %}}
 
-{{%attachments title="AWS Servicios de Conectividad" pattern="AWS_Servicios_de_Conectividad.pdf"/%}}
+1. AWS Servicios de Informatica
+
+    {{% button href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Informatica.pdf" icon="fas fa-download" %}}Mapa mental{{% /button %}}
+
+1. AWS Servicios de Conectividad/Red
+
+    {{% button href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Conectividad.pdf" icon="fas fa-download" %}}Mapa mental{{% /button %}}
 
 <img src="images/logo-bar.png" alt="drawing"/>
