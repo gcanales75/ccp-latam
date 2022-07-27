@@ -1,12 +1,12 @@
 +++ 
-title = "Bienvenidos" 
+title = "AWS Certified Cloud Practitioner" 
 chapter = true 
 weight = 10
 +++
 
 <img src="images/logo-bar.png" alt="drawing"/>
 
-**Bienvenidos al sitio donde encontrará información de estudio y guía para agendar el examen de certificación AWS Cloud Practitioner.**
+**Bienvenidos al sitio donde encontrará información de preparación y guía para agendar el examen de certificación AWS Certified Cloud Practitioner.**
 
 Esta credencial ayuda a que las organizaciones identifiquen y desarrollen talentos con conocimientos esenciales relacionados con la implementación de iniciativas en la nube. La obtención de AWS Certified Cloud Practitioner valida conocimientos básicos sobre AWS y para operar en la nube.
 
