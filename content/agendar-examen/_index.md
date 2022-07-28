@@ -8,6 +8,8 @@ weight = 20
 
 **Cómo agendar un examen de certificación de Amazon Web Services**
 
+1. Si trabaja para un Partner de AWS, el primer paso es iniciar sesión en el Amazon Partner Network (APN) {{% button href="https://partnercentral.awspartner.com/APNLogin" %}}AWS Partner Network{{% /button %}}
+
 1. Ir a {{% button href="https://www.aws.training/" %}}AWS Certification{{% /button %}}
 
 1. Seleccionar en el menú superior **Certification** y luego dar *click* en **SIGN IN** (Si no tiene una cuenta debes crearla asegurar del mantener el mismo Candidate ID).
