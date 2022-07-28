@@ -6,7 +6,7 @@ weight = 10
 
 <img src="images/logo-bar.png" alt="drawing"/>
 
-**Bienvenidos al sitio donde encontrará información de preparación y guía para agendar el examen de certificación AWS Certified Cloud Practitioner.**
+**Bienvenido al sitio donde encontrará información de preparación y guía para agendar el examen de certificación AWS Certified Cloud Practitioner.**
 
 Esta credencial ayuda a que las organizaciones identifiquen y desarrollen talentos con conocimientos esenciales relacionados con la implementación de iniciativas en la nube. La obtención de AWS Certified Cloud Practitioner valida conocimientos básicos sobre AWS y para operar en la nube.
 
@@ -22,7 +22,7 @@ AWS Certified Cloud Practitioner está dirigido a cualquier persona que tenga co
 
 #### ¿Qué hay que hacer para obtener esta certificación?
 
-Para obtener esta certificación, deberá hacer y aprobar el examen AWS Certified Cloud Practitioner (CLF-C01). El examen presenta una combinación de dos formatos de preguntas: varias opciones y varias respuestas. En la guía del examen encontrará información adicional, como un esquema detallado del contenido del examen.
+Para obtener esta certificación, deberá tomar y aprobar el examen AWS Certified Cloud Practitioner (CLF-C01). El examen presenta una combinación de dos formatos de preguntas: varias opciones y varias respuestas. En la guía del examen encontrará información adicional, como un esquema detallado del contenido del examen.
 
 <img src="images/ccp-logo.png" alt="drawing"/>
 
