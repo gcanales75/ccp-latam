@@ -8,7 +8,7 @@ weight = 30
 
 ## Recursos de preparación
 
-- Seguir el plan de preparación que que incluye cursos virtuales, digitales bajo demanda, videos, así como documentación técnica para complementar la preparación para tomar el examen certificación. Visite: <a href="https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_CloudPractitioner.pdf" target="_blank">AWS Ramp-Up Guide: Cloud Essentials</a>
+- Seguir el plan de preparación que incluye cursos virtuales, digitales bajo demanda, videos, así como documentación técnica para complementar la preparación para tomar el examen certificación. Visite: <a href="https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_CloudPractitioner.pdf" target="_blank">AWS Ramp-Up Guide: Cloud Essentials</a>
 
 - Curso Digital: <a href="https://partnercentral.awspartner.com/LmsSsoRedirect?RelayState=%2flearningobject%2fwbc%3fid%3d62551" target="_blank">AWS Cloud Practitioner Essentials (digital 6hs)</a>
 
