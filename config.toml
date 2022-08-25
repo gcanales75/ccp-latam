@@ -1,7 +1,7 @@
 RelativeURLs=true
 CanonifyURLs=true
 languageCode = "en-US"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 
 title = "Evetn Engine setup"
 theme = "learn"
@@ -44,9 +44,16 @@ home = [ "HTML", "RSS", "JSON"]
     [markup.goldmark.renderer]
       unsafe = true
 
+defaultContentLanguage = 'es'
 [Languages]
-[Languages.en]
-title = "AWS Training & Certification "
-weight = 1
-languageName = "Spanish"
+  [Languages.es]
+    contentDir = "content/es"
+    title = "AWS Training & Certification "
+    weight = 1
+    languageName = "Spanish"
+  [Languages.pt]
+    contentDir = "content/pt"
+    title = "AWS Training & Certification "
+    weight = 2
+    languageName = "Português"
 
