@@ -13,16 +13,14 @@ Los **Mapas Mentales** son herramientas que ayudan a estructurar conceptos, cono
 {{% notice note %}}Son herramientas complementarias de estudio, no reemplazan los cursos, videos, lectura, examenes de prueba u otros recursos recomendados de preparación para un examen de certificación.
 {{% /notice %}}
 
-1. Introducción a Cloud Computing en AWS
+- <a href="https://www.xmind.net/m/AFh4ia" target="_blank">Cloud Computing - Informática en la nube</a>
 
-    {{% button href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Informatica_en_la_nube.pdf" icon="fas fa-download" %}}Mapa mental{{% /button %}}
+- <a href="https://www.xmind.net/m/WXksRV" target="_blank">AWS Servicios de Informática/Cómputo</a>
 
-1. AWS Servicios de Informatica
+- <a href="https://www.xmind.net/m/MAqYnM" target="_blank">AWS Servicios de Conectividad - Redes</a>
 
-    {{% button href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Informatica.pdf" icon="fas fa-download" %}}Mapa mental{{% /button %}}
+- <a href="https://www.xmind.net/m/wLB9e6" target="_blank">AWS Servicios de Almacenamiento</a>
 
-1. AWS Servicios de Conectividad/Red
-
-    {{% button href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Conectividad.pdf" icon="fas fa-download" %}}Mapa mental{{% /button %}}
+- <a href="https://www.xmind.net/m/ddP4PV" target="_blank">AWS Well Architected Framework</a>
 
 <img src="images/logo-bar.png" alt="drawing"/>
