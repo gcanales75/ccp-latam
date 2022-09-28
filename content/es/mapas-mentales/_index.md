@@ -21,6 +21,12 @@ Los **Mapas Mentales** son herramientas que ayudan a estructurar conceptos, cono
 
 - <a href="https://www.xmind.net/m/wLB9e6" target="_blank">AWS Servicios de Almacenamiento</a>
 
+- <a href="https://xmind.app/m/JpzqQd/" target="_blank">AWS Seguridad & Cumplimiento</a>
+
+- <a href="https://xmind.app/m/q33Ecu/" target="_blank">AWS Administración y Gestión de recursos servicios</a>
+
+- <a href="https://xmind.app/m/hT2wS4/" target="_blank">AWS Facturación y Administración de costos</a>
+
 - <a href="https://www.xmind.net/m/ddP4PV" target="_blank">AWS Well Architected Framework</a>
 
 <img src="images/logo-bar.png" alt="drawing"/>
