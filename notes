@@ -6,7 +6,7 @@ git@github.com:gcanales75/ccp-latam.git
 git branch -M main
 
 git add .
-git commit -m "add pt language site"
+git commit -m "20220901 updates"
 git push -u ccp-latam main
 
 

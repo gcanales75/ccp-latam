@@ -39,6 +39,8 @@ En el examen AWS Certified Cloud Practitioner, se incluyen cuatro áreas:
 
 <img src="images/exam-topics.png" alt="drawing"/>
 
+<a href="https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf" target="_blank">Descargue la guía del examen »</a>
+
 En las áreas abarcadas, se describe cada aspecto de la guía del examen para la certificación AWS Certified Cloud Practitioner. Para obtener una descripción de cada área, consulte el sitio web de <a href="https://aws.amazon.com/certification/certified-cloud-practitioner" target="_blank">AWS Certified Cloud Practitioner</a>.
 
 Se ponderá cada área del examen. El peso representa el porcentaje de preguntas del examen que corresponden a esa área en particular. Se trata de aproximaciones, por lo que las preguntas de su examen podrían no concordar exactamente con estos porcentajes. En el examen, no se indica el área asociada a una pregunta. De hecho, es posible que algunas preguntas correspondan a varias áreas.

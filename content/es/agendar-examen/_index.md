@@ -28,34 +28,29 @@ weight = 20
 
 1. Seleccione **Inscribirse a un examen**
 
-1. Encontrará todos los examenes disponibles, entre ellos el examen **AWS Certified Cloud Practitioner** así como la opción de seleccionar a cualquiera de los dos proveedores disponibles, **Pearson VUE** o **PSI**. Al seleccionar alguna de las dos opciones será redireccionado al sitio del proveedor que haya elegido. (Los siguientes pasos y capturas de pantalla son del proveedor **Pearson VUE**, puede seleccionar **PSI** como su proveedor y el menu podría variar ligeramente).
+1. Encontrará una lista de los examenes de certificación disponibles, entre ellos el examen **AWS Certified Cloud Practitioner**. Seleccione la opción **Programar con Pearson VUE** a la derecha del nombre del examen de certificación.
 
-1. Cada proveedor cuenta con opciones para presentar el examen de forma presencial o virtual, seleccione la opción que mas le convenga.
+1. Le aparecerá un recuadro con información importante sobre el examen. Favor de revisar la información y luego cerrar el cuadro de texto.
 
-1. Deberá seleccionar el idioma que desea presentar su examen, **AWS Certified Cloud Practitioner** está disponible para ser presentado en idioma **Español**.
+1. El proveedor Pearson Vue ofrece la opción de presentar el examen de certificación de forma presencial o virtual. Seleccione la opción deseada.
 
-1. Acepte los términos y condiciones.
+1. Deberá seleccionar el idioma que desea presentar su examen, **AWS Certified Cloud Practitioner** está disponible para ser presentado en múltiples idiomas, entre ellos **Español** e **Inglés**.
 
-1. Ambos proveedores cuentan con opciones para seleccionar el idioma del *supervisor* (o *proctor*) que lo acompañará durante su examen de forma remota. Sin embargo, solo en el caso de haber seleccionado **Pearson VUE** se tiene la opción de que el idioma sea **Español**.
+1. Lea con atención los *Términos y Condiciones* y seleccione **Aceptar** al final de la página.
+
+1. En caso de haber seleccionado la opción de presentar el examen de forma presencial, deberá buscar y seleccionar el centro de evaluación mas conveniento de acuerdo a su ubicación. Siga las instrucciones en pantalla.
+
+1. En caso de haber seleccionado la opción de presentar el examen de forma virtual, deberá también aceptar las *Políticas de exámenes en línea*
+
+1. De haber seleccionado la opción de presentar el examen de forma virtual, deberá indicar también el idioma del *supervisor* (o *proctor*) que lo acompañará durante su examen de forma remota.
 
     <img src="images/idiomaproctor.png" alt="drawing"/>
 
-1. Seleccione la zona horaria en la que se encuentre.
+1. Seccione la fecha y hora mas conveniente dentro de las opciones que el centro de evaluación le proporcione.
 
-1. Seleccionar la fecha para presentar el examen y a continuación se habilitarán en el panel inferior los horarios disponibles para ese día.
+1. Seleccione **Continuar con el pago**, ingrese un método de pago. En caso de contar con un *Voucher* de descuento, favor de ingresarle en el recuadro **Código de promoción/cupón**.
 
-    <img src="images/Picture9.png" alt="drawing"/>
-
-1. Una vez seleccionada la hora y dar **Siguiente** se presentará el resumen del costo del examen para generar el pago. En caso de contar con voucher en el siguiente paso se habilitará la opción para agregar el código para su canje.
-
-    {{% notice tip %}}En caso de que cuente con un voucher promocional, debe asegurarse de haber seleccionado el proveedor de examen correspondiente a dicho voucher.
-    {{% /notice %}}
-
-    <img src="images/Picture10.png" alt="drawing"/>
-
-1. Seleccionar **Continuar con el pago**
-
-1. Ingrese la información para hacer el pago del examen y al ser confirmado recibirá un correo electrónico del proveedor con información relevante sobre el examen.
+1. Concluya la compra y en breve le llegará una confirmación por correo electrónico del proveedor con información relevante sobre su examen.
 
 **¡MUCHO EXITO!**
 
