@@ -24,6 +24,6 @@ AWS Certified Cloud Practitioner está dirigido a cualquier persona que tenga co
 
 Para obtener esta certificación, deberá tomar y aprobar el examen AWS Certified Cloud Practitioner (CLF-C01). El examen presenta una combinación de dos formatos de preguntas: varias opciones y varias respuestas. En la guía del examen encontrará información adicional, como un esquema detallado del contenido del examen.
 
-<img src="images/ccp-logo.png" alt="drawing"/>
+–
 
 <img src="images/logo-bar.png" alt="drawing"/>

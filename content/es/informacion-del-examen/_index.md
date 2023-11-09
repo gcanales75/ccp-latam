@@ -37,7 +37,13 @@ Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testin
 
 En el examen AWS Certified Cloud Practitioner, se incluyen cuatro áreas:
 
-<img src="images/exam-topics.png" alt="drawing"/>
+|  **Dominio** | **% del examen** |
+| ------ | ----------- |
+| Dominio 1: Conceptos de la nube  | 24 % |
+| Dominio 2: Seguridad y cumplimiento | 30 % |
+| Dominio 3: Tecnología y servicios en la nube | 34 % |
+| Dominio 4: Facturación, precios y soporte | 12 % |
+|  **TOTAL** | **100%** |
 
 <a href="https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf" target="_blank">Descargue la guía del examen »</a>
 
