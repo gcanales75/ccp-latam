@@ -6,7 +6,7 @@ git@github.com:gcanales75/ccp-latam.git
 git branch -M main
 
 git add .
-git commit -m "update links"
+git commit -m "update pt videos"
 git push -u ccp-latam main
 
 
